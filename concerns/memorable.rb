@@ -2,8 +2,8 @@ module Memorable
   #to be filled in
 
 
-  def all.reset
-    reset.all()
+  def reset
+    all.reset()
   end
   
   def count
