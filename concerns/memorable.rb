@@ -2,6 +2,11 @@ module Memorable
   #to be filled in
 
 
-  def self.reset.all 
+  def reset.all 
+    reset.all()
+  end
+  
+  def count
     
+  end  
 end
