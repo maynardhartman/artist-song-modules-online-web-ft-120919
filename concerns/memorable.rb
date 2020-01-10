@@ -2,7 +2,7 @@ module Memorable
   #to be filled in
 
 
-  def reset.all 
+  def all.reset
     reset.all()
   end
   
